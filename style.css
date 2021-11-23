@@ -1,0 +1,24 @@
+.logo{
+    font-family: Comforter Brush;
+    font-size: 30px;
+}
+*{
+    color: white;
+    background: black;
+}
+body{
+    background: black;
+}
+.search-sec{
+    
+}
+.search-sec h1 {
+    padding-top: 20px;
+}
+.search-sec h5{
+    
+}
+
+.search-sec .searcj-box {
+    padding: 30px 0px;
+}
